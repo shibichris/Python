@@ -24,10 +24,10 @@ for i in range(1,21):
     i = 1
 
 while i<=5:
-    print("Telusko ",end="")
+    print("Shibin ",end="")
     j=1
     while j<=4:
-        print("Rocks ",end="")
+        print("K S ",end="")
         j=j+1
 
     i=i+1
